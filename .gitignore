@@ -5,3 +5,7 @@
 /workforce/workforce-APIGateway-Shared/bin/*
 /workforce/workforce-APIGateway-Shared/obj/*
 /workforce/workforce-APIGateway-API/obj/*
+/workforce/workforce.core/obj/*
+/workforce/workforce.core/bin/*
+/workforce/workforce.core.shared/bin/*
+/workforce/workforce.core.shared/obj/*
