@@ -1,4 +1,4 @@
 ﻿<Properties StartupConfiguration="{2B102882-2CD3-4D8D-A35B-2D23D4E3E5EA}|Default">
-  <MonoDevelop.Ide.ItemProperties.workforce FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.workforce-APIGateway FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -12084,9 +12084,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pp3/out-of-office/workforce/workforce/workforce.csproj",
-      "projectName": "workforce",
-      "projectPath": "/Users/pp3/out-of-office/workforce/workforce/workforce.csproj",
+      "projectUniqueName": "/Users/pp3/out-of-office/workforce/workforce/workforce-APIGateway.csproj",
+      "projectName": "workforce-APIGateway",
+      "projectPath": "/Users/pp3/out-of-office/workforce/workforce/workforce-APIGateway.csproj",
       "packagesPath": "/Users/pp3/.nuget/packages/",
       "outputPath": "/Users/pp3/out-of-office/workforce/workforce/obj/",
       "projectStyle": "PackageReference",
