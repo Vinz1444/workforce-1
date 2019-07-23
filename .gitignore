@@ -1,2 +1,4 @@
 /workforce/bin/*
+/workforce/obj/*
+/.vs/*
 
