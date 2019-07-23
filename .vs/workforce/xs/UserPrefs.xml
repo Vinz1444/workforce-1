@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{2B102882-2CD3-4D8D-A35B-2D23D4E3E5EA}|Default">
-  <MonoDevelop.Ide.ItemProperties.workforce-APIGateway FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.workforce PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="workforce/workforce-APIGateway-API/Class1.cs">
+    <Files>
+      <File FileName="workforce/workforce-APIGateway-Shared/Class1.cs" Line="1" Column="1" />
+      <File FileName="workforce/workforce-APIGateway-API/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="workforce" expanded="True">
+            <Node name="APILayer" expanded="True">
+              <Node name="workforce-APIGateway-API" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.APILayer.workforce-APIGateway-API FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.APILayer.workforce-APIGateway PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.APILayer.workforce-APIGateway-Shared FirstBuild="True" />
 </Properties>
