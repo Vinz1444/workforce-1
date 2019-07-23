@@ -1,4 +1,7 @@
 /workforce/bin/*
 /workforce/obj/*
 /.vs/*
-
+/workforce/workforce-APIGateway-API/bin/*
+/workforce/workforce-APIGateway-Shared/bin/*
+/workforce/workforce-APIGateway-Shared/obj/*
+/workforce/workforce-APIGateway-API/obj/*

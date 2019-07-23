@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workforce-APIGateway-Shared
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workforce-APIGateway-API", "workforce\workforce-APIGateway-API\workforce-APIGateway-API.csproj", "{AE4B80C4-B3C7-4D85-AD64-A0D35EB037E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workforce.core", "workforce.core\workforce.core.csproj", "{94BC8882-E952-46CA-B1D5-9AED4E136812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workforce.core.shared", "workforce.core.shared\workforce.core.shared.csproj", "{41CE3E69-5B67-4A27-A3A1-C0015BCABD22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AE4B80C4-B3C7-4D85-AD64-A0D35EB037E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE4B80C4-B3C7-4D85-AD64-A0D35EB037E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE4B80C4-B3C7-4D85-AD64-A0D35EB037E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94BC8882-E952-46CA-B1D5-9AED4E136812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BC8882-E952-46CA-B1D5-9AED4E136812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BC8882-E952-46CA-B1D5-9AED4E136812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BC8882-E952-46CA-B1D5-9AED4E136812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CE3E69-5B67-4A27-A3A1-C0015BCABD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CE3E69-5B67-4A27-A3A1-C0015BCABD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CE3E69-5B67-4A27-A3A1-C0015BCABD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CE3E69-5B67-4A27-A3A1-C0015BCABD22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2B102882-2CD3-4D8D-A35B-2D23D4E3E5EA} = {9DA5B64A-08CD-48D0-BC2C-EF5467967B23}

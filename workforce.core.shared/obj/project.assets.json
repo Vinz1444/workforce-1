@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pp3/out-of-office/workforce/workforce/workforce-APIGateway-Shared/workforce-APIGateway-Shared.csproj",
-      "projectName": "workforce-APIGateway-Shared",
-      "projectPath": "/Users/pp3/out-of-office/workforce/workforce/workforce-APIGateway-Shared/workforce-APIGateway-Shared.csproj",
+      "projectUniqueName": "/Users/pp3/out-of-office/workforce/workforce.core.shared/workforce.core.shared.csproj",
+      "projectName": "workforce.core.shared",
+      "projectPath": "/Users/pp3/out-of-office/workforce/workforce.core.shared/workforce.core.shared.csproj",
       "packagesPath": "/Users/pp3/.nuget/packages/",
-      "outputPath": "/Users/pp3/out-of-office/workforce/workforce/workforce-APIGateway-Shared/obj/",
+      "outputPath": "/Users/pp3/out-of-office/workforce/workforce.core.shared/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
